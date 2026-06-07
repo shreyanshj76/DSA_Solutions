@@ -1,4 +1,4 @@
-#263. Ugly Number
+# 263. Ugly Number
 
 [Link](https://leetcode.com/problems/ugly-number/description/)
 
