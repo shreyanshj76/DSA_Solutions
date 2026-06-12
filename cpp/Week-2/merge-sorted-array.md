@@ -17,8 +17,8 @@ public:
                 if (nums1[j]<nums1[minIdx]){
                     minIdx = j;
                 }
-                swap(nums1[i], nums1[minIdx]);
             }
+            swap(nums1[i], nums1[minIdx]);
         }
     }
 };
